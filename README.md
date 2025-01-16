@@ -27,7 +27,7 @@ The game ends when the countdown reaches zero.
 Make sure you have Python installed on your system. You'll also need the turtle module, which comes pre-installed with Python.
 
 To play the game:
-1. Clone or download the Python script.
+1. Clone or download the Python script (CatchTheTurtle.py) .
 2. Run the script using Python.
 
 ## Code Explanation
