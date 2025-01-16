@@ -2,6 +2,8 @@
 
 This is a simple Turtle game where you have to click on randomly appearing turtles to score points before the time runs out. The game offers three difficulty levels: Easy, Medium, and Hard.
 
+![Image](https://github.com/user-attachments/assets/d3c0f2de-d5a5-416c-b282-4d6511a960b5)
+
 ## Features
 - Choose between three difficulty levels: Easy, Medium, and Hard.
 - Click on the visible turtles to score points.
